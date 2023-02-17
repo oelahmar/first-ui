@@ -1,0 +1,11 @@
+1-git init: initialize local repository 
+2-git add:add the working fileto index 
+3- git status : showing done midifications -before git add 
+4-git diff --cached : showing difference between working files 
+5- git commit: add index to the local repository -prepare it to be sent to th cloud repos
+
+
+
+
+i hiiiiiiiiiiiittttttt that lt s fix it okayuyyuyyyyy
+ 
